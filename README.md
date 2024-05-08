@@ -2,7 +2,7 @@
 - 👀 I’m interested in writing codes that can change the world
 - 🌱 I’m currently learning html, css and js.
 - 💞️ I’m looking to collaborate on every project that can help me become a better programmer.
-- 📫 How to reach me ...
+- 📫 How to reach me: Use the bat-signal.
 - 😄 Pronouns: HIM!
 - ⚡ Fun fact: The sexiest part of my body  has to be my legs.
 
